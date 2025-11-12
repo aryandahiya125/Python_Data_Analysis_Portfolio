@@ -31,8 +31,13 @@ Prepare the data for modeling / dashboard (Power BI / Tableau / Excel)
 
 
 🛠️ Technologies Used
+
 Tool / Library	Purpose
+
 Python	Core programming language
+
 Pandas	Data manipulation and cleaning
+
 NumPy	Numerical computations
+
 Jupyter Notebook	Interactive analysis environment
